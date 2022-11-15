@@ -35,14 +35,16 @@ input{
     margin: 10px 5px;
     border: 0;
     border-bottom: solid 1px grey;
+    background-color: transparent;
     
 }
 select{
-    width: 100%;
+    width: 100% ;
     padding: 5px;
     border: 0;
     border-bottom: solid 1px grey;
     margin: 10px 5px;
+    background-color: transparent;
 }
 #Place{
     width: 42%;
